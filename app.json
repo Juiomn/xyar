@@ -1,6 +1,6 @@
 {
-    "name": "XrayHeroku",
-    "description": "xray websocket proxy on heroku",
+    "name": "xyar",
+    "description": "xyar",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
@@ -33,6 +33,6 @@
         }
     },
     "website": "https://github.com/Juiomn/xyar",
-    "repository": "https://github.com/Juiomn/xyar",
+    "repository": "",
     "stack": "container"
 }
